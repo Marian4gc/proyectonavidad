@@ -1,0 +1,55 @@
+body{
+    background: linear-gradient(180deg, rgb(9, 44, 121) 23%, rgb(45, 229, 253) 100%); 
+    font-family: Barlow;
+    overflow-x: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+        header{
+        padding-bottom: 200px;
+            nav {
+                font-family: sans-serif !important;
+                background: url(NUBE-REPE.png) repeat-x left top;
+                min-height: 160px;
+                width: 100%;
+                font-size: large;
+                font-weight: bolder;
+                .logo{
+                    width:20%;
+                    margin-left: 1%;
+                }
+                    .nav-item{
+                        margin-right: 1rem;
+                    }
+                        .nav-item:hover{
+                            background-color: #d69b26bd;
+                            border-radius: 5px;
+                        }
+                            .collapse{
+                                background-color: rgba(255, 255, 255, 0.61);
+                                padding: 2px;
+                                text-align: center;
+                            }
+            }
+        }
+        main{
+            color: white;
+            .title{
+                text-align: center;
+                padding-bottom: 50px;
+
+            }
+            .col{
+                padding-bottom: 50px;
+                .image1{
+                    width: 500px;
+                }
+                .image2{
+                    width: 500px;
+                }
+            }
+        }
+        .footer{
+            background-color: white;
+        }
+}
+
