@@ -52,6 +52,8 @@ body main .conjuntocarta p {
 .bolasnavidad {
   padding-top: 80px;
   padding-bottom: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 p {
@@ -72,4 +74,8 @@ section button.boton {
   background-color: rgb(1, 23, 47);
   margin-top: 20px;
   margin-bottom: 50px;
+}
+
+footer {
+  background-color: white;
 }/*# sourceMappingURL=papanoel.css.map */

@@ -1,0 +1,49 @@
+.tarjetas {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.carousel {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.footer {
+  background-color: white;
+}
+
+body {
+  background: linear-gradient(180deg, rgb(9, 44, 121) 23%, rgb(45, 229, 253) 100%);
+  font-family: sans-serif;
+}
+body header {
+  font: bold 20px;
+  padding-bottom: 220px;
+}
+body header nav {
+  font-family: sans-serif !important;
+  background: url(/cartapapanoel/imagenes/NUBE-REPE.png) repeat-x left top;
+  min-height: 160px;
+  width: 100%;
+  font-size: large;
+  font-weight: bolder;
+}
+body header nav .logo {
+  width: 20%;
+  margin-left: 1%;
+}
+body header nav .nav-item {
+  margin-right: 1rem;
+}
+body header nav .nav-item:hover {
+  background-color: rgba(214, 155, 38, 0.7411764706);
+  border-radius: 5px;
+}
+body header nav .collapse {
+  background-color: rgba(255, 255, 255, 0.6196078431);
+  padding: 2px;
+  text-align: right;
+}/*# sourceMappingURL=inicio.css.map */
