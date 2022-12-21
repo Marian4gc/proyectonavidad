@@ -5,8 +5,13 @@ header {
 }
 
 nav {
+  font-family: sans-serif !important;
   background: url(NUBE-REPE.png) repeat-x left top;
   min-height: 160px;
+  min-height: 160px;
+  width: 100%;
+  font-size: large;
+  font-weight: bolder;
 }
 
 .nav-item {

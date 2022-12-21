@@ -11,10 +11,6 @@
   margin-bottom: 100px;
 }
 
-.footer {
-  background-color: white;
-}
-
 body {
   background: linear-gradient(180deg, rgb(9, 44, 121) 23%, rgb(45, 229, 253) 100%);
   font-family: sans-serif;
