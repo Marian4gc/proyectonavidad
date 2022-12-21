@@ -1,0 +1,98 @@
+
+// body {
+//     background: linear-gradient(to bottom, #01172F, #2B4387,#4CCABE);
+//     background-size: 100% 100%;
+//     background-attachment: fixed;
+//     background-repeat: no-repeat;
+// }
+
+body {
+    background: linear-gradient(180deg, rgb(9, 44, 121) 23%, rgb(45, 229, 253) 100%); 
+    font-family: sans-serif;
+        header{
+            font: bold 20px; 
+            padding-bottom: 220px;
+                nav {
+                    font-family: sans-serif !important;
+                    background: url(/cartapapanoel/imagenes/NUBE-REPE.png) repeat-x left top;
+                    min-height: 160px;
+                    width: 100%;
+                    font-size: large;
+                    font-weight: bolder;
+                        .logo {
+                            width:20%;
+                            margin-left: 1%;
+                        }
+                        .nav-item{
+                            margin-right: 1rem;
+                        }
+                            .nav-item:hover{
+                                background-color: #d69b26bd;
+                                border-radius: 5px;
+                            }
+                                .collapse{
+                                    background-color: #ffffff9e;
+                                    padding: 2px;
+                                    text-align: right;
+                                }
+                } 
+        }
+        main {
+            padding-top: 50px;
+            .text-center {
+                padding-bottom: 50px;
+                    .col {
+                        .fotopapa {
+                            width:300px;
+                        }
+                    }
+                    .recibe {
+                        padding-top: 50px;
+                    }
+                }
+            .conjuntocarta {
+                    .col{
+                        .carta {
+                            width:300px;
+                        }
+                    }
+                    p {
+                        padding-top: 50px;
+                    }
+                }
+            }
+            } 
+        .bolasnavidad {
+            padding-top: 80px;
+            padding-bottom: 50px;
+        }
+
+        p {
+            color: white;
+            text-align: center;
+        }
+
+        .bolaestrella {
+            text-align: center;
+            padding-bottom: 50px;            
+        }
+        
+        section {
+            .form-label {
+                color: rgb(1, 39, 80);
+                font-weight: bold;
+                }
+                button.boton {
+                    background-color: rgba(1, 23, 47, 1);
+                    margin-top: 20px;
+                    margin-bottom: 50px;
+                }
+        }
+
+
+
+
+
+
+
+
